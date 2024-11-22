@@ -85,8 +85,8 @@ Each dataset entry includes:
 - **Sentiment Label:** Polarity score (-2 to +2).
 - **Interpretations:** Metaphor explanations with ratings.
 - **Novelty Rating:** A score indicating the creativity of the metaphor.
-- **Metaphor MIP：**It provides an explanation of whether a given sentence is metaphorical, aiming to help understand the reasoning behind the determination of metaphorical expressions and their underlying logic. This label is a critical support for metaphor identification and explanation tasks. The annotation of this label was performed using the GPT-4o-mini large language model. During the annotation process, the MIP theory (Metaphor Identification Procedure) was incorporated to guide the model in generating detailed explanations about the presence of metaphorical elements in a sentence.
-- **Sentiment label:**It represents the sentiment orientation of a given sentence, providing information about its emotional polarity. This label is central to sentiment analysis tasks, enabling models to understand and classify the emotional tone of text data. Sentiment orientation is categorized into five levels for finer granularity:
+- **Metaphor MIP:** It provides an explanation of whether a given sentence is metaphorical, aiming to help understand the reasoning behind the determination of metaphorical expressions and their underlying logic. This label is a critical support for metaphor identification and explanation tasks. The annotation of this label was performed using the GPT-4o-mini large language model. During the annotation process, the MIP theory (Metaphor Identification Procedure) was incorporated to guide the model in generating detailed explanations about the presence of metaphorical elements in a sentence.
+- **Sentiment label:** It represents the sentiment orientation of a given sentence, providing information about its emotional polarity. This label is central to sentiment analysis tasks, enabling models to understand and classify the emotional tone of text data. Sentiment orientation is categorized into five levels for finer granularity:
 2: Very positive
 1: Positive
 0: Neutral
