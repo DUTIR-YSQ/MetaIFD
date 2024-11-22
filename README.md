@@ -27,13 +27,13 @@ Each dataset folder is named after the dataset and contains the following subfol
 
 ## Tasks Supported
 
-The MetaIFD dataset supports **8 distinct tasks**, with annotations tailored for metaphor comprehension and explanation:
+The MetaIFD dataset supports **6 distinct tasks**, with annotations tailored for metaphor comprehension and explanation:
 
 1. **Metaphor Identification**
    - Detect whether a sentence contains a metaphor.
    - Full dataset: 113,384 entries.
    
-2. **Single Metaphorical Word Identification**
+2. **Metaphorical Word Identification**
    - Identify a single metaphorical word in a given sentence.
    - Dataset size: 5,673 entries.
 
