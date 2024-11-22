@@ -1,0 +1,2158 @@
+[
+    {
+        "ID": 1004,
+        "Sentence": "Rather he is informed about the situation and the purpose of informing him is to provide a knowledge <b>base</b> from which he can work out his own actions.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "base",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "bank"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"base\" in the sentence is a metaphor that refers to a foundation of knowledge from which actions can be determined, rather than a physical structure or location.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1005,
+        "Sentence": "Rather he is informed about the situation and the purpose of informing him is to provide a knowledge <b>base</b> from which he can work out his own actions.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "base",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "pool",
+            "bank"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence is \"knowledge base.\" This metaphorical expression uses the basic concept of a physical or abstract foundation to convey the idea of providing information as a basis for making decisions or taking actions.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1006,
+        "Sentence": "It is invariably better to provide material diagrammatically, systematically or at least in well-structured short paragraphs rather than in <b>flowing</b> prose.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "flowing",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "lengthy"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"flowing\" in the sentence is a metaphor, as it deviates from its basic meaning of liquid movement to convey a sense of continuous, uninterrupted prose.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1007,
+        "Sentence": "It is invariably better to provide material diagrammatically, systematically or at least in well-structured short paragraphs rather than in <b>flowing</b> prose.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "flowing",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "lengthy"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"flowing\" in the sentence is a metaphorical expression that contrasts with presenting information in a structured manner.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1008,
+        "Sentence": "It is invariably better to provide material diagrammatically, systematically or at least in well-structured short paragraphs rather than in <b>flowing</b> prose.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "flowing",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "lengthy"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"It is invariably better to provide material diagrammatically, systematically or at least in well-structured short paragraphs rather than in flowing prose\" contains a metaphor, where \"flowing prose\" is used metaphorically to refer to content presented in a continuous, unrestricted, and unstructured manner.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1009,
+        "Sentence": "<b>Consider</b> for example how readily information about the relative position of streets is available from a map of a town centre rather than a verbal description of all the streets.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "Consider",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "Contemplate"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where understanding information is compared to navigating a map of a town center.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1010,
+        "Sentence": "Consider for example how readily information about the relative position of streets is available from a map of a town <b>centre</b> rather than a verbal description of all the streets.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "centre",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "square"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The term \"centre\" in the sentence is being used metaphorically to convey the idea of a central location where information is easily accessible, similar to how a physical town center provides easy access to information about street locations.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1011,
+        "Sentence": "Consider for example how readily information about the relative position of streets is available from a map of a town <b>centre</b> rather than a verbal description of all the streets.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "centre",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "square"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The lexical unit \"centre\" in the sentence is used metaphorically to refer to the focal point or main area of a town, emphasizing its significance and accessibility in providing information.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1012,
+        "Sentence": "Consider for example how readily information about the relative position of streets is available from a map of a town <b>centre</b> rather than a verbal description of all the streets.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "centre",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "square"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where the term \"centre\" is used metaphorically to represent a map's central location, emphasizing the ease of accessing information compared to a verbal description.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1013,
+        "Sentence": "Extensive use of line drawings, schematic diagrams, algorithmic lists is <b>desirable</b>, and where prose is used this also should be structured into short sentences with meaningful separation into paragraphs.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "desirable",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "preferable"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The sentence contains a metaphor, where the use of line drawings, schematic diagrams, and algorithmic lists is likened to being \"desirable.\"",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1014,
+        "Sentence": "In recent years there has been a steady accumulation of evidence that personality and allied affective factors play a crucial role in determining <b>subject</b> choice and student success.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "subject",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "course"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"personality and allied affective factors play a crucial role in determining subject choice and student success\" contains a metaphor, where \"subject choice\" and \"student success\" are compared to a physical object or action through the concept of determining.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1015,
+        "Sentence": "Unfortunately, this evidence has tended to be fragmentary, a collection of separate, discrete pieces of information lacking a synthesizing theory to provide cohesion and predictive <b>power</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "power",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "capability"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"power\" in the sentence is a metaphor, as it is used to convey the idea of influence or effectiveness rather than its literal meaning of physical strength or energy.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1016,
+        "Sentence": "Unfortunately, this evidence has tended to be fragmentary, a collection of separate, discrete pieces of information lacking a synthesizing theory to provide cohesion and predictive <b>power</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "power",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "capability"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The term \"power\" in the sentence is a metaphor, as it refers to the ability of a theory to bring together separate pieces of information and make accurate predictions, rather than its literal meaning of physical strength or energy.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1017,
+        "Sentence": "For example Roe (1952), Eiduson (1962) and McClelland (1962) suggested that male scientists often experienced a <b>lonely</b> childhood, perhaps suffering social isolation through illness or family circumstances, so that they developed a strong interest in their surrounding material world and a below average interest in other people and relationships.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "lonely",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "isolated"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"lonely\" in the sentence is used metaphorically to describe a sense of social isolation and lack of connection with others during childhood for male scientists, leading them to have a stronger interest in the material world and weaker interest in relationships.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1018,
+        "Sentence": "We need now only take note of the most salient <b>features</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "features",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "attributes"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"We need now only take note of the most salient features\" contains a metaphor, where \"features\" is likely referring to characteristics or attributes rather than physical aspects.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1019,
+        "Sentence": "These differences can be seen quite early on; we have <b>found</b> boys aged 14 years who were opting for science to be significantly more authoritarian than their peers.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "found",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "discovered"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"found\" in the sentence is a metaphor, suggesting the discovery or observation of a particular trait or characteristic in boys at a young age.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1020,
+        "Sentence": "These differences can be seen quite early on; we have <b>found</b> boys aged 14 years who were opting for science to be significantly more authoritarian than their peers.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "found",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "observed"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is:\nfound = discovered",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1021,
+        "Sentence": "These differences can be seen quite early on; we have <b>found</b> boys aged 14 years who were opting for science to be significantly more authoritarian than their peers.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "found",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "discovered",
+            "observed"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The lexical unit \"found\" in the sentence is used metaphorically to imply the act of discovering or determining a fact, rather than physically locating something.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1022,
+        "Sentence": "In contrast, only a minority of girls express an interest in science at any age but there is no obvious <b>swing</b> from science in the middle and late teens.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "swing",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "change"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The term \"swing\" in the sentence is a metaphor. Its basic meaning (related to bodily actions) differs from its contextual meaning here, where it is used to describe a shift or change in interest.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1023,
+        "Sentence": "In contrast, only a minority of girls express an interest in science at any age but there is no obvious <b>swing</b> from science in the middle and late teens.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "swing",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "diversion"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"swing.\" It does not have a more basic meaning in other contexts that significantly differs from its contextual meaning in this sentence.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1024,
+        "Sentence": "In contrast, only a minority of girls express an interest in science at any age but there is no obvious <b>swing</b> from science in the middle and late teens.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "swing",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "change",
+            "diversion"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"swing\" in the sentence is a metaphor. It evokes a more concrete meaning related to bodily actions, suggesting a shift or movement away from science in the middle and late teens, as opposed to a literal swinging motion.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1025,
+        "Sentence": "For example, girls at the age of 12 and 14 years seem to take a more mature attitude to personal relationships, seeing their complexity and reciprocal <b>nature</b>, while boys are more exploitative.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "nature",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "quality"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"nature\" in the sentence is a metaphor that refers to the inherent characteristics or essence of personal relationships, implying complexity and reciprocity.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1026,
+        "Sentence": "The ego-identity of that person is <b>shaped</b> by these choices.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "shaped",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "determined"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"The ego-identity of that person is shaped by these choices\" contains a metaphor where the verb \"shaped\" is used to convey the idea of influence or formation of one's ego-identity.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1027,
+        "Sentence": "Some problems about identity arise with the young child in the <b>context</b> of home and school, and others occur in later life, for example on retirement.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "context",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "situation"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where problems about identity are compared to rising in the context of home and school, and later in life, for example on retirement.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1028,
+        "Sentence": "Figure 16.1 indicates a number of possible <b>routes</b> to ego-identity achievements.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "routes",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "paths"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"routes\" in the sentence is a metaphor, as it is used to represent different paths or strategies towards achieving ego-identity.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1029,
+        "Sentence": "Science, with its masculine <b>image</b>, makes little emotional demand on an individual and seems to offer clear, precise answers to problems.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "image",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "appearance"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"image\" in the sentence is a metaphor, as it refers to the perceived characteristics or qualities associated with science, comparing it to a masculine figure that is emotionally undemanding and provides clear and precise answers.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1030,
+        "Sentence": "Science, with its masculine <b>image</b>, makes little emotional demand on an individual and seems to offer clear, precise answers to problems.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "image",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "appearance"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"image\" in the sentence is a metaphor, where science is being likened to a masculine figure, emphasizing traits such as clarity, precision, and emotional detachment.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1031,
+        "Sentence": "Science, with its masculine <b>image</b>, makes little emotional demand on an individual and seems to offer clear, precise answers to problems.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "image",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "representation"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"image\" in the sentence is a metaphor, highlighting that science is perceived as having masculine characteristics, which make it appear strong, stable, and rational, providing clear and precise solutions without much emotional involvement.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1032,
+        "Sentence": "Science, with its masculine <b>image</b>, makes little emotional demand on an individual and seems to offer clear, precise answers to problems.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "image",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "representation"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"image\" in the sentence is used metaphorically to represent the perception or impression that science presents, suggesting it is seen as having masculine qualities, such as being rational, objective, and detached.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1033,
+        "Sentence": "Science, with its masculine <b>image</b>, makes little emotional demand on an individual and seems to offer clear, precise answers to problems.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "image",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "appearance",
+            "representation"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"image\" in the sentence is a metaphor, with the basic meaning of \"visual representation\" being used to convey a more abstract concept related to perception and characteristics associated with masculinity.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1034,
+        "Sentence": "Furthermore, these girls will tend to go into a career with a feminine image, one which already <b>attracts</b> many girls.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "attracts",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "interests"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"attracts\" in the sentence is a metaphor, suggesting that the career in question has qualities that appeal to or draw in many girls.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1035,
+        "Sentence": "They are at a <b>stage</b> when they are likely to be concerned with a variety of complex issues; the meaning of life, the existence of God, ideologies, their emerging sexuality, their future career and life-style — too often science is seen as being purely instrumental with nothing to contribute to these debates.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "stage",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "point"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"stage\" in the sentence is a metaphor, likely drawing on the more basic meaning of a physical stage as a platform for performances. In this context, the word \"stage\" is used to convey the idea of a developmental phase in life where individuals grapple with important and complex issues.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1036,
+        "Sentence": "They are at a <b>stage</b> when they are likely to be concerned with a variety of complex issues; the meaning of life, the existence of God, ideologies, their emerging sexuality, their future career and life-style — too often science is seen as being purely instrumental with nothing to contribute to these debates.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "stage",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "period"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"stage\" in the sentence \"They are at a stage\" is a metaphor, as it is used to portray a particular phase in someone's life where they are dealing with complex issues, similar to being in a theatrical performance.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1037,
+        "Sentence": "They are at a <b>stage</b> when they are likely to be concerned with a variety of complex issues; the meaning of life, the existence of God, ideologies, their emerging sexuality, their future career and life-style — too often science is seen as being purely instrumental with nothing to contribute to these debates.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "stage",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "point",
+            "period"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The term \"stage\" in the sentence functions as a metaphor, representing a developmental phase in life where individuals have concerns about complex issues.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1038,
+        "Sentence": "However, only a minority of adolescents will have reached the ego-identity achievement <b>stage</b> at the age when most pupils have to make crucial decisions about subject choice at school.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "stage",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "phase"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The term \"stage\" in the sentence is a metaphor that refers to a developmental phase or milestone in the process of identity formation, where individuals achieve a sense of self-awareness and clarity about their values and goals.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1039,
+        "Sentence": "We can <b>consider</b> three possible changes:",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "consider",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "contemplate"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"We can consider three possible changes\" is not a metaphor based on the MIP theory.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1040,
+        "Sentence": "Giving science a more feminine <b>image</b>: It is sometimes argued that science textbooks are sexist in showing illustrations of boys, rather than girls, doing practical work in the laboratory, and so forth.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "image",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "representation"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The sentence is a metaphor as it refers to the concept of giving science a more feminine \"image\" through portraying girls in illustrations of practical work in the laboratory.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1041,
+        "Sentence": "Giving science a more feminine <b>image</b>: It is sometimes argued that science textbooks are sexist in showing illustrations of boys, rather than girls, doing practical work in the laboratory, and so forth.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "image",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "representation"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence uses the metaphor \"giving science a more feminine image\" to suggest the idea that science textbooks should represent both genders equally in illustrations of practical work.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1042,
+        "Sentence": "The difference is that we are now offering a formal psychological <b>model</b> to suggest that if we want to reduce the current encapsulation of science, if we want to recruit a different sort of student, then certain curriculum changes are needed.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "model",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "framework"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor, where \"model\" is used in a non-literal sense to refer to a formal psychological framework or structure. The metaphor suggests that a psychological model is being presented as a blueprint or plan for making curriculum changes in order to attract a different type of student and reduce the current scientific encapsulation.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1043,
+        "Sentence": "Over 90 per cent of entries in all technical <b>subjects</b> are from boys.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "subjects",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "disciplines"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence \"subjects\" signifies academic disciplines or areas of study, with a specific focus on technical fields.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1044,
+        "Sentence": "This means that schoolgirls are ineligible for a wide range of <b>courses</b> in further and higher education and for entry to occupations requiring a scientific or technical base.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "courses",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "curricula"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"courses\" in the sentence is a metaphor, as it is used with a specific contextual meaning related to education and career options, diverging from its more concrete and general meaning of a path or direction.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1045,
+        "Sentence": "This means that schoolgirls are ineligible for a wide range of <b>courses</b> in further and higher education and for entry to occupations requiring a scientific or technical base.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "courses",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "curricula"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"courses\" in the sentence is a metaphorical expression representing educational opportunities and paths available to schoolgirls.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1046,
+        "Sentence": "Nevertheless, most schools consider they are already providing equal opportunities by <b>neutral</b> treatment of the two sexes (Bloomfield, 1984).",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "neutral",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "impartial"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The term \"neutral treatment\" in the sentence is a metaphor, as it refers to treating the two sexes equally.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1047,
+        "Sentence": "In effect, ignoring the effects of gender in this way merely reinforces stereotyping because it does nothing to challenge the definition of certain <b>aspects</b> of the curriculum as masculine or feminine.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "aspects",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "parts"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The sentence contains a metaphor where \"aspects of the curriculum\" are compared to gender characteristics, highlighting how ignoring gender differences reinforces stereotypes.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1048,
+        "Sentence": "In effect, ignoring the effects of gender in this way merely reinforces stereotyping because it does nothing to challenge the definition of certain <b>aspects</b> of the curriculum as masculine or feminine.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "aspects",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "parts"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The lexical unit \"aspects\" in the sentence is a metaphor, as it refers to certain elements of the curriculum being categorized as either masculine or feminine, highlighting the reinforcement of stereotyping.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1049,
+        "Sentence": "The project team collaborated with teachers in eight co-educational comprehensive schools in the Greater Manchester area to devise and implement intervention strategies designed to improve girls' attitudes to the physical sciences and technical <b>subjects</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "subjects",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "fields"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"subjects\" in the sentence is not a metaphor according to the MIP theory.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1050,
+        "Sentence": "The <b>approach</b> was collaborative: teachers were invited to work with the team as equal partners in the attempts both to investigate and find solutions to the GIST problem.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "approach",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "strategy"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"approach\" in the sentence is metaphorical, as it is being used to describe a method or strategy for addressing an issue.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1051,
+        "Sentence": "The <b>approach</b> was collaborative: teachers were invited to work with the team as equal partners in the attempts both to investigate and find solutions to the GIST problem.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "approach",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "strategy"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The term \"approach\" in the sentence is used metaphorically to describe the collaborative nature of the teachers and the team working together as equal partners.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1052,
+        "Sentence": "The GIST hypothesis was that female under-achievement in science and technology is at least partly socially constructed by the school, an hypothesis based on research evidence as well as critical feminist analysis (<b>see</b>, for example, Kelly, 1981).",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "see",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "note"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where the \"GIST hypothesis\" is compared to a foundation or basis for the claim that female under-achievement in science and technology is socially constructed by the school.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1053,
+        "Sentence": "During the project there was a shift away from locating the issue as one of girls' motivation towards attempts to change the <b>nature</b> of school science.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "nature",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "essence"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence is the use of the word \"nature\" to describe the focus shifting from girls' motivation to changing the core characteristics of school science.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1054,
+        "Sentence": "The largest scale intervention was the VISTA programme, which consisted of women scientists and technologists visiting schools to talk to children about an <b>aspect</b> of their jobs already being covered in the school science syllabus.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "aspect",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "area"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The term \"aspect\" in the sentence is a metaphor, as it refers to a particular facet or element of the women scientists and technologists' jobs, rather than a physical or tangible aspect.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1055,
+        "Sentence": "The largest scale intervention was the VISTA programme, which consisted of women scientists and technologists visiting schools to talk to children about an <b>aspect</b> of their jobs already being covered in the school science syllabus.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "aspect",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "area"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is: \"an aspect of their jobs already being covered in the school science syllabus.\"",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1056,
+        "Sentence": "The <b>survey</b> of children's attitudes helped here: research such as Ormerod's (1971; Ormerod and Duckworth, 1975) had shown that girls were interested in the social implications of science, but did not tell teachers what the desirable teaching approach might be in practice.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "survey",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "study"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The term \"survey\" is used metaphorically in this sentence to indicate the process of investigating and understanding children's attitudes, similar to conducting a formal survey.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1057,
+        "Sentence": "The <b>survey</b> of children's attitudes helped here: research such as Ormerod's (1971; Ormerod and Duckworth, 1975) had shown that girls were interested in the social implications of science, but did not tell teachers what the desirable teaching approach might be in practice.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "survey",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "study"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"survey\" in the sentence is used metaphorically to indicate an investigation or study that provided valuable insights.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1058,
+        "Sentence": "The survey of children's attitudes helped here: research such as Ormerod's (1971; Ormerod and Duckworth, 1975) had shown that girls were interested in the social implications of science, but did not tell teachers what the desirable teaching <b>approach</b> might be in practice.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "approach",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "style"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The lexical unit \"approach\" in the sentence is a metaphor, as it refers to a method or strategy for teaching in a non-literal sense.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1059,
+        "Sentence": "The survey of children's attitudes helped here: research such as Ormerod's (1971; Ormerod and Duckworth, 1975) had shown that girls were interested in the social implications of science, but did not tell teachers what the desirable teaching <b>approach</b> might be in practice.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "approach",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "style"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The lexical unit \"approach\" in the sentence is a metaphor, as it refers to a method or strategy in teaching, which is a more abstract concept compared to its basic meaning of physically moving towards or getting closer to something.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1060,
+        "Sentence": "At present the science curriculum is structured around physical science <b>interests</b>, on which boys are keener (how motor cars work, atoms and molecules); we were able to recommend that teaching build on the overlapping interests of the two sexes, because girls as well as boys want to know more about human biology and spectacular features of the environment (animals in the jungle, volcanoes and earthquakes, acids and chemicals).",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "interests",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "topics"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where \"science curriculum is structured around physical science interests\" is used to imply that the curriculum is designed based on topics that typically attract boys more than girls.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1061,
+        "Sentence": "When women scientists employ such <b>approaches</b>, and describe their own work, as happened during the VISTA programme, girls are receiving double encouragement.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "approaches",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "methods"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"approaches\" in the sentence is used metaphorically to refer to the strategies or methods employed by women scientists, highlighting their unique perspectives and techniques in their work.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1062,
+        "Sentence": "When women scientists employ such <b>approaches</b>, and describe their own work, as happened during the VISTA programme, girls are receiving double encouragement.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "approaches",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "procedures"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The lexical unit \"approaches\" in the sentence is a metaphorical expression. It refers to the methods or strategies employed by women scientists. The basic meaning of \"approaches\" is more concrete and related to bodily actions.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1063,
+        "Sentence": "When women scientists employ such <b>approaches</b>, and describe their own work, as happened during the VISTA programme, girls are receiving double encouragement.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "approaches",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "methods",
+            "procedures"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"approaches\" is used metaphorically in the sentence, representing methods or strategies in a figurative sense rather than its literal meaning. The metaphorical meaning emphasizes the varied ways in which women scientists conduct their work, highlighting their unique perspectives and contributions.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1064,
+        "Sentence": "Several special science or craft clubs were organized in the lunch hour for girls only and in two schools teachers <b>planned</b> single-sex teaching.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "planned",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "arranged"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The lexical unit \"planned\" in the sentence is a metaphor that conveys the idea of intentionally arranging and organizing educational activities in a specific manner, emphasizing the deliberate and purposeful nature of the teachers' actions.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1065,
+        "Sentence": "The GIST interventions described above relate to three of these: VISTA women, albeit briefly and temporarily, redressed the numerical balance by offering female role models of practising scientists; VISTA and the curriculum development which followed involved a limited ‘repackaging’ of science to remove its exclusively masculine <b>appeal</b>, and the single-sex classes and classroom observation showed how science comes to be defined as ‘masculine’ in the mixed school.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "appeal",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "charm"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The lexical unit \"appeal\" in the sentence is a metaphor that refers to the attractiveness or desirability of science to females, emphasizing the need to make science more inclusive and appealing to women by removing its exclusively masculine connotations.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1066,
+        "Sentence": "The GIST interventions described above relate to three of these: VISTA women, albeit briefly and temporarily, redressed the numerical balance by offering female role models of practising scientists; VISTA and the curriculum development which followed involved a limited ‘repackaging’ of science to remove its exclusively masculine <b>appeal</b>, and the single-sex classes and classroom observation showed how science comes to be defined as ‘masculine’ in the mixed school.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "appeal",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "charm"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"appeal\" in the sentence is a metaphor, highlighting the concept of science being traditionally associated with masculinity and the need to change this perception.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1067,
+        "Sentence": "This chapter is an <b>account</b> of the way they perceived attempts to develop integrated provision for under fives and the barriers in attitudes and systems which were encountered.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "account",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "description"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The term \"account\" in the sentence is being used metaphorically to convey the idea that the chapter provides a detailed explanation or report of the way attempts to develop integrated provision for under fives were perceived, as well as the obstacles faced in terms of attitudes and systems.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1068,
+        "Sentence": "This chapter is an account of the way they perceived attempts to develop integrated provision for under fives and the barriers in <b>attitudes</b> and systems which were encountered.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "attitudes",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "perspectives"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: In the sentence, the word \"attitudes\" is used metaphorically to refer to mental stances or orientations towards the development of integrated provision for under fives, which implies a symbolic comparison between abstract mental attitudes and physical barriers in systems encountered during the process.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1069,
+        "Sentence": "The fourth section examines the formidable barriers that were posed by reorganisation of social services, local authority <b>cuts</b> and the demise of the Inner London Education Authority.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "cuts",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "reductions"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains the metaphor of \"cuts\" to describe reductions in resources or funding, highlighting the challenges faced due to restructuring of social services and the demise of the Inner London Education Authority.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1070,
+        "Sentence": "The fourth section examines the formidable barriers that were posed by reorganisation of social services, local authority <b>cuts</b> and the demise of the Inner London Education Authority.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "cuts",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "reductions"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"cuts\" in the sentence is a metaphor, as it refers to reductions or decreases in funding or resources rather than physical cuts.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1071,
+        "Sentence": "They were joined in the <b>network</b> by specialist teachers, funded by the ILEA and based in the special schools, who visited children at home before they were due to start school.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "network",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "community"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The term \"network\" in the sentence is a metaphor. The basic meaning of \"network\" typically refers to interconnected systems or structures, but in this context, it is used to convey the idea of a group of specialist teachers collaborating and working together to support children with special needs.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1072,
+        "Sentence": "One Afro-Caribbean woman described how she <b>felt</b> that she was never given a choice of provision for her son, and objected to being told he should be in a specialist nursery for his own good.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "felt",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "perceived"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"felt\" in the sentence is a metaphor, as it is used to express the woman's emotional experience rather than physical touch. The basic meaning of \"felt\" as a tactile sensation is different from its contextual meaning here, where it conveys the woman's subjective perception and emotions.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1073,
+        "Sentence": "One Afro-Caribbean woman described how she <b>felt</b> that she was never given a choice of provision for her son, and objected to being told he should be in a specialist nursery for his own good.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "felt",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "perceived"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"felt\" in the sentence is a metaphorical expression, suggesting an emotional experience or perception that cannot be physically touched or seen. This metaphorical use of \"felt\" conveys the woman's emotional response to the situation, emphasizing her subjective experience and feelings of lack of agency in deciding her son's provision.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1074,
+        "Sentence": "These ideas were informed by a paper which had already been produced by an active member of the local Mencap group, who had previously tried to <b>generate</b> the debate within the Community Health Service through the Mencap committee.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "generate",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "start"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains the metaphor \"generate the debate,\" where the basic meaning of \"generate\" (producing something) is used metaphorically to mean initiating or starting a discussion.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1075,
+        "Sentence": "These ideas were informed by a paper which had already been produced by an active member of the local Mencap group, who had previously tried to <b>generate</b> the debate within the Community Health Service through the Mencap committee.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "generate",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "start"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"generate\" in this sentence is used metaphorically to convey the idea of initiating, creating, or sparking the debate within the Community Health Service.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1076,
+        "Sentence": "Prior to the conference various groups met to <b>produce</b> short contributions to the debate.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "produce",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "create"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"Prior to the conference various groups met to produce short contributions to the debate\" contains a metaphor.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1077,
+        "Sentence": "It is only too obvious that this balance between action and personal life was intimately bound up with the conditions of clandestine action and could not <b>survive</b> it.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "survive",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "endure"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence is that the balance between action and personal life is compared to a living entity that can be \"survived\", implying that the balance is fragile and can be disrupted or destroyed.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1078,
+        "Sentence": "And in this sense it must be said that the Resistance experience, by making us believe that politics is a relationship between man and man or between consciousnesses, fostered our illusions of 1939 and <b>masked</b> the truth of the incredible power of history which the Occupation taught us in another connection.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "masked",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "hid"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains the metaphor \"masked the truth,\" which suggests that the Resistance experience obscured or concealed the real nature of something.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1079,
+        "Sentence": "If by 1945 Merleau-ponty had here already <b>indicated</b> the historical basis for what was to become Sartre's project in the Critique, the theoretical problem that followed was how to unite orthodox Marxist concepts of economic determinism and historical necessity with the individualism of Sartre's earlier work, that is the existentialist notion of the authentic self and the possibility of choosing one's own freedom: how to relocate human practice within historical determinism, to reconcile the individual with the social, the idea of agency with that of necessity, or freedom with history?",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "indicated",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "suggested"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The lexical unit \"indicated\" in the sentence is used metaphorically to express the idea that Merleau-Ponty had suggested or pointed out the historical basis for what was to become Sartre's project in the Critique by 1945.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1080,
+        "Sentence": "If by 1945 Merleau-ponty had here already indicated the historical basis for what was to become Sartre's project in the Critique, the theoretical problem that followed was how to unite orthodox Marxist concepts of economic determinism and historical necessity with the individualism of Sartre's earlier work, that is the existentialist notion of the authentic self and the possibility of choosing one's own freedom: how to relocate human practice within historical determinism, to <b>reconcile</b> the individual with the social, the idea of agency with that of necessity, or freedom with history?",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "reconcile",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "reunite"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"reconcile.\" It is used to express the challenge of harmonizing conflicting concepts such as individualism and historical determinism, agency and necessity, freedom and history.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1081,
+        "Sentence": "Accordingly, he attempted to <b>shift</b> Marxism away from orthodox theories of an absolute determinism towards the primacy of a concept of ‘History’ which, while still a totality as it had been for Lukács, a process with a determinate meaning and end, could also include a concept of human agency and thus articulate the individual with the social, freedom with determinism.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "shift",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "divert"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"shift\" in the sentence is a metaphor, suggesting a change in direction or focus away from orthodox theories towards a new conceptual framework.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1082,
+        "Sentence": "Sartre's <b>stress</b> on the role of the subject also finds approval because many of those no longer prepared to argue for a general theory of history as the progress of a single narrative of class-struggle, have begun to argue instead for a return of its correlative, the subject, almost as if it was the next best thing in the absence of history itself.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "stress",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "emphasis"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is the use of \"stress\" to depict the emphasis Sartre places on the role of the subject in his ideas, likening it to a physical force or pressure.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1083,
+        "Sentence": "Sartre's stress on the role of the subject also finds approval because many of those no longer prepared to argue for a general theory of history as the progress of a single narrative of class-struggle, have begun to argue instead for a return of its correlative, the subject, almost as if it was the next best <b>thing</b> in the absence of history itself.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "thing",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "idea"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"the subject is the next best thing in the absence of history itself.\"",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1084,
+        "Sentence": "‘Never has homo faber better understood that he has made history and never has he <b>felt</b> so powerless before history’.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "felt",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "been"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphorical expression where 'felt' is used metaphorically to convey an emotional experience of powerlessness. The basic meaning of 'felt' is related to bodily sensations, but in this context, it is used to express an abstract emotional state.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1085,
+        "Sentence": "Though this neatly solves the problem of how man can make history while at the same time history makes him, it does not answer the larger question of how a multiplicity of the products of individual acts, ‘totalizations’, can themselves be totalized into the overall totalization required by the logic of dialectical rationality — rather than being the arbitrary, blind and self-cancelling <b>movements</b> of, say, Hardy's immanent will.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "movements",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "actions"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"movements\" in the sentence functions as a metaphor, as it is used to imply actions or changes that are arbitrary, blind, and self-cancelling, contrasting with the notion of purposeful and meaningful development.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1086,
+        "Sentence": "For the whole basis of Sartre's argument is that the dialectic of history is not a metaphysical <b>law</b>, ‘some powerful unitary force revealing itself behind History like the will of God’, but the continuously produced effect of individual conflicts; each action is in its turn subsumed as a part of the whole in an ever broader, developing totalization (I, 37).",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "law",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "rule"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence highlights that Sartre's argument rejects the idea of a metaphysical law governing history and instead sees history as the result of individual conflicts being integrated into a broader totalization.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1087,
+        "Sentence": "While he suggests in apocalyptic <b>tones</b> in The Problem of Method that this process of self-consciousness is at last beginning to take place, and that civil, foreign and colonial wars are becoming apparent as different forms of a single class struggle, Sartre also admits that the divorce between theory and praxis which ensued under Stalinism has generally prevented any clear self-consciousness among the masses.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "tones",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "language"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where \"tones\" refers to the style or manner in which something is expressed, suggesting that the ideas being communicated have a dramatic or ominous quality.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1088,
+        "Sentence": "The ‘detour, of Stalinism is thus formalized as Marxism's own descent into its unconscious, resulting in a dream-work of heterogeneous histories that have eluded systematization and subsumption into the single meaning of Marxism's own <b>reading</b> of history.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "reading",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "interpretation"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"reading\" is used metaphorically to represent the interpretation and analysis of history within Marxism, suggesting a process of deep engagement and understanding.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1089,
+        "Sentence": "It is therefore, Sartre argues, our historical task to make it known, promoting not just the historical process as such, but also the general <b>recognition</b> whereby the plurality of the meanings of individual histories can be seen to combine to make one history, with one meaning — the ‘Truth of humanity’ (I, 822).",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "recognition",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "acknowledgement"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is the concept of \"recognition,\" which is used to represent the idea of combining the plurality of meanings of individual histories to form one history with a single meaning - the 'Truth of humanity.'",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1090,
+        "Sentence": "Sartre's account thus sets up the <b>articulation</b> of history, univocal meaning, and totality as the indissoluble set of elements required for the validation of Marxism, necessary in order to save it from its detour from itself.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "articulation",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "demonstration"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The term \"articulation\" in the sentence is used metaphorically to represent the interconnection and integration of history, meaning, and totality as essential elements for validating Marxism and correcting any deviation from its core principles.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1091,
+        "Sentence": "Sartre's account thus sets up the <b>articulation</b> of history, univocal meaning, and totality as the indissoluble set of elements required for the validation of Marxism, necessary in order to save it from its detour from itself.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "articulation",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "understanding"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The term \"articulation\" in the sentence is a metaphor, as it refers to the complex relationship between history, meaning, and totality needed to validate Marxism, helping to rescue it from straying from its core principles.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1092,
+        "Sentence": "Sartre's account thus sets up the <b>articulation</b> of history, univocal meaning, and totality as the indissoluble set of elements required for the validation of Marxism, necessary in order to save it from its detour from itself.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "articulation",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "demonstration",
+            "understanding"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The term \"articulation\" in this sentence is a metaphor, representing the process of connecting or linking different aspects of history, meaning, and totality in a cohesive way to validate Marxism and prevent it from straying from its core principles.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1093,
+        "Sentence": "Sartre's account thus sets up the articulation of history, univocal meaning, and totality as the indissoluble set of elements required for the validation of Marxism, necessary in order to save it from its <b>detour</b> from itself.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "detour",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "diversion"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The term \"detour\" in the sentence serves as a metaphor, comparing Marxism's deviation from its core principles to a literal detour.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1094,
+        "Sentence": "Sartre's account thus sets up the articulation of history, univocal meaning, and totality as the indissoluble set of elements required for the validation of Marxism, necessary in order to save it from its <b>detour</b> from itself.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "detour",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "diversion"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"detour from itself.\"",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1095,
+        "Sentence": "How can History be a unity if it is also conflictual, if each action is aimed at destroying the other and results in a double negation in which the original aims of each action have been <b>destroyed</b> by the other?",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "destroyed",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "demolished"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where the concept of \"History\" is likened to a unity that is conflictual. The term \"destroyed\" is used metaphorically to describe the outcomes of actions in History.",
+        "sentimental_label": -2
+    },
+    {
+        "ID": 1096,
+        "Sentence": "For the ‘dogmatic dialectic’, as he describes dialectical materialism, the whole question naturally poses no problem, for each person or group simply constitutes a partial moment of an already operative movement of totalization that <b>produces</b> them and then goes beyond them.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "produces",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "makes"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence suggests that individuals or groups are created by and are part of a larger process of totalization that surpasses them, emphasizing the idea of being shaped by a greater force beyond oneself.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1097,
+        "Sentence": "The <b>products</b> of a conflict, as well as its residues, may seem incomprehensible insofar as they differ from the original intentions of any of the combatants.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "products",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "results"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence is a metaphor as it describes conflict and its outcomes using the concept of \"products\" and \"residues,\" which differ from the original intentions of the combatants.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1098,
+        "Sentence": "The <b>products</b> of a conflict, as well as its residues, may seem incomprehensible insofar as they differ from the original intentions of any of the combatants.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "products",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "results"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence is not a metaphor.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1099,
+        "Sentence": "Dialectical reason <b>encounters</b> such products as undecidables:",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "encounters",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "detects"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence is not a metaphor.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1100,
+        "Sentence": "aporias — because they seem to be at once the results of a communal enterprise while at the same time bearing witness to the fact that this enterprise never existed except as the inhuman reverse side of two opposed actions in which each <b>aims</b> to destroy the other.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "aims",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "tries"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is that \"two opposed actions\" are compared to being in a communal enterprise, aiming to destroy each other, highlighting the contradictory nature of the situation.",
+        "sentimental_label": -2
+    },
+    {
+        "ID": 1101,
+        "Sentence": "aporias — because they seem to be at once the results of a communal enterprise while at the same time bearing witness to the fact that this enterprise never existed except as the inhuman reverse side of two opposed actions in which each <b>aims</b> to destroy the other.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "aims",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "seeks"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence highlights the contradictory nature of aporias by describing them as results of a communal enterprise yet also as the inhuman reverse side of two opposed actions aiming to destroy each other.",
+        "sentimental_label": -2
+    },
+    {
+        "ID": 1102,
+        "Sentence": "aporias — because they seem to be at once the results of a communal enterprise while at the same time bearing witness to the fact that this enterprise never existed except as the inhuman reverse side of two opposed actions in which each <b>aims</b> to destroy the other.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "aims",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "tries",
+            "seeks"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor is highlighted through the word \"aims,\" which conveys the notion of two opposed actions striving to destroy each other, symbolizing the contradictory nature of aporias as both the results of a communal enterprise and the absence of such collaboration.",
+        "sentimental_label": -2
+    },
+    {
+        "ID": 1103,
+        "Sentence": "In the dialectical <b>perspective</b>, we encounter these objects as productions which are human and provided with a future … thus they seem by themselves to be totalizations in process.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "perspective",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "view"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The sentence contains a metaphor, with the lexical unit \"perspective\" being used metaphorically to signify a particular way of viewing objects.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1104,
+        "Sentence": "In the dialectical perspective, we <b>encounter</b> these objects as productions which are human and provided with a future … thus they seem by themselves to be totalizations in process.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "encounter",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "experience"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"we encounter these objects as productions which are human and provided with a future\" contains a metaphor. The use of the word \"encounter\" metaphorically describes the act of perceiving or coming across these objects as if they were human creations with inherent potential for growth and development.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1105,
+        "Sentence": "In the dialectical perspective, we <b>encounter</b> these objects as productions which are human and provided with a future … thus they seem by themselves to be totalizations in process.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "encounter",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "experience"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence is the concept of \"encounter\" being used to describe the relationship between individuals and objects, emphasizing a dialectical perspective where objects are seen as human productions with a future, appearing as ongoing totalizations.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1106,
+        "Sentence": "This <b>means</b> that first, they lead to results, and second, that the internal structure of social objects contains ‘the double negation of themselves and of each constituent part by the other’ (II, 22).",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "means",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "suggests"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence suggests that social objects lead to results and have an internal structure characterized by 'the double negation of themselves and of each constituent part by the other'.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1107,
+        "Sentence": "In the context of the negativity of this formulation, Sartre is obliged to pose once again the problem of whether there can be a totalization, without any independent totalizer or totalizing <b>force</b> such as the dialectic, or whether the structure of negation that he has described means that, as for Adorno or Bakhtin, history does not develop positively but, rather, negatively, and is therefore instead detotalizing:",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "force",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "power"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The term \"force\" in this sentence is used metaphorically to represent an abstract concept or power that influences the totalization of events or history, without a concrete physical force being present.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1108,
+        "Sentence": "In the context of the negativity of this formulation, Sartre is obliged to pose once again the problem of whether there can be a totalization, without any independent totalizer or totalizing <b>force</b> such as the dialectic, or whether the structure of negation that he has described means that, as for Adorno or Bakhtin, history does not develop positively but, rather, negatively, and is therefore instead detotalizing:",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "force",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "influence"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The phrase \"totalizing force\" is a metaphor within the context, suggesting a powerful entity or concept that brings together all elements into a unified whole.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1109,
+        "Sentence": "In the context of the negativity of this formulation, Sartre is obliged to pose once again the problem of whether there can be a totalization, without any independent totalizer or totalizing <b>force</b> such as the dialectic, or whether the structure of negation that he has described means that, as for Adorno or Bakhtin, history does not develop positively but, rather, negatively, and is therefore instead detotalizing:",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "force",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "power",
+            "influence"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"force\" in this sentence is not a metaphor according to the MIP theory.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 1110,
+        "Sentence": "That means both that there is a dialectical meaning of the practical ensemble … and that each singular event totalizes in itself the practical ensemble in the infinite <b>richness</b> of its singularity’ (II, 26).",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "richness",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "beauty"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is the comparison of \"richness\" to the concept of totalizing the practical ensemble in the infinite singularity of each singular event.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 1111,
+        "Sentence": "Its totalization takes place through its incarnation, as <b>part</b> of the totality of boxing, in the overall framework within which each individual fight occurs.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "part",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "piece"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"part\" in the sentence functions as a metaphor, emphasizing the boxer's role as a component of the overarching system of boxing, rather than just an individual fighter.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1112,
+        "Sentence": "But it is also apparent that that totality is not completely known, nor is its future <b>shape</b> even presumed.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "shape",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "form"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"shape\" in the sentence is a metaphor, as it is used to represent the future state or form of something beyond its literal meaning.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1113,
+        "Sentence": "By totalization, therefore, Sartre does not here mean anything like a predetermined end or final closure of a totality but rather a process of <b>mediation</b> among the parts, where each is determined by the other.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "mediation",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "negotiation"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where \"mediation\" is used to describe the process of totalization in Sartre's concept, highlighting the interconnectedness and mutual influence among the parts of a totality.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1114,
+        "Sentence": "By totalization, therefore, Sartre does not here mean anything like a predetermined end or final closure of a totality but rather a process of <b>mediation</b> among the parts, where each is determined by the other.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "mediation",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "negotiation"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The lexical unit \"mediation\" in the sentence is used metaphorically to denote a process of interaction and interdependence among the parts, rather than its more basic meaning of intervening or facilitating communication between parties.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1115,
+        "Sentence": "By totalization, therefore, Sartre does not here mean anything like a predetermined end or final closure of a totality but rather a process of mediation among the <b>parts</b>, where each is determined by the other.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "parts",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "constituents"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains the metaphor of totalization, where Sartre's concept does not imply a predetermined end or final closure, but instead refers to a process of mediation among the parts, where each part is determined by the other.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1116,
+        "Sentence": "No one can predict the future of boxing, either at the level of particular victories or defeats, in effect a <b>structure</b> of repetition, nor at the more general level of possible modifications or developments of the sport.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "structure",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "system"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where the future of boxing is compared to a \"structure of repetition\", highlighting the unpredictability and cyclical nature of the sport.",
+        "sentimental_label": 0
+    }
+]

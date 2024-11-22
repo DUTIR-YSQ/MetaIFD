@@ -1,0 +1,2112 @@
+[
+    {
+        "ID": 0,
+        "Sentence": "Latest corporate unbundler reveals laid-back <b>approach</b>: Roland Franklin, who is leading a 697m pound break-up bid for DRG, talks to Frank Kane",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "approach",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "method"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"approach.\" The contextual meaning refers to a strategy or way of handling a situation, while the basic meaning relates to physical movement towards something. The comparison between the two suggests a nuanced and strategic way of dealing with the task at hand, rather than a direct physical movement.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 1,
+        "Sentence": "Latest corporate unbundler reveals laid-back approach: Roland Franklin, who is <b>leading</b> a 697m pound break-up bid for DRG, talks to Frank Kane",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "leading",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "winning"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"leading\" in the sentence is used metaphorically to signify taking charge or steering a course of action, rather than physically leading or directing.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 2,
+        "Sentence": "There are other things he has, on his own admission, not fully investigated, like the value of the DRG properties, or which <b>part</b> of the DRG business he would keep after the break up.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "part",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "section"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"part\" in the sentence is not a metaphor according to the MIP theory.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 3,
+        "Sentence": "He regards the <b>charges</b> as unfounded.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "charges",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "accusations"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The \"charges\" in this sentence is a metaphor, with its basic meaning being related to legal accusations or allegations. In this context, it is used to convey the idea that the allegations are without merit or justification.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 4,
+        "Sentence": "He regards the <b>charges</b> as unfounded.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "charges",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "accusations"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"charges\" in the sentence is a metaphor, where the basic meaning (accusations) is different from the contextual meaning (accusations perceived as lacking merit).",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 5,
+        "Sentence": "‘That <b>point</b> about the core business is very unfair,’ he says.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "point",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "detail"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"point\" in the sentence is being used metaphorically to refer to an idea or argument, rather than its more basic meaning of a sharp or tapered end.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 6,
+        "Sentence": "‘That <b>point</b> about the core business is very unfair,’ he says.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "point",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "detail"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"That point about the core business is very unfair\" contains a metaphor. The word \"point\" is being used metaphorically to refer to an argument or statement, rather than a literal physical point.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 7,
+        "Sentence": "‘That <b>point</b> about the core business is very unfair,’ he says.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "point",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "detail"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The lexical unit \"point\" in the sentence is used metaphorically to refer to an opinion or statement.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 8,
+        "Sentence": "Along with Sir James he <b>found</b> the US much more attractive, taking over and breaking up some fairly hefty US corporations.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "found",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "considered"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence is that \"found\" is used metaphorically to mean \"discovered\" or \"realized,\" implying that the speaker and Sir James discovered the US to be more attractive.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 9,
+        "Sentence": "He rejects <b>charges</b> that he was partly responsible for the ‘casino atmosphere’ that gripped US corporate life in the early 1980s.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "charges",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "accusations"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The term \"charges\" in the sentence is a metaphor, as it refers to accusations or allegations made against the individual regarding their involvement in creating a chaotic and risky business environment in the early 1980s.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 10,
+        "Sentence": "He rejects <b>charges</b> that he was partly responsible for the ‘casino atmosphere’ that gripped US corporate life in the early 1980s.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "charges",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "accusations"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"charges\" in this sentence is a metaphor, with its basic meaning being accusations or allegations. The contextual meaning differs slightly, as it refers to the claims that the person was partly responsible for a certain atmosphere in US corporate life.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 11,
+        "Sentence": "He rejects charges that he was partly responsible for the ‘casino atmosphere’ that <b>gripped</b> US corporate life in the early 1980s.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "gripped",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "encompassed"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"gripped.\" It implies that the intense and pervasive nature of the 'casino atmosphere' in US corporate life in the early 1980s had a strong hold over it.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 12,
+        "Sentence": "And there is always the ultimate unbundler's <b>defence</b> — that he will make money for his backers.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "defence",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "argument"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"defence\" in the sentence is used metaphorically to describe the ultimate rationale or justification that the unbundler will provide to convince his backers of the financial benefit of his actions.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 13,
+        "Sentence": "And there is always the ultimate unbundler's <b>defence</b> — that he will make money for his backers.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "defence",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "argument"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The term \"defence\" in the sentence is a metaphor, where the speaker is likening the concept of defending or justifying one's actions to the act of bundling or unbundling assets for financial gain.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 14,
+        "Sentence": "In a takeover campaign that has already seen vitriolic language, he responds to the charge that he is <b>mounting</b> the bid to enrich himself and his friends by saying: ‘Nobody could take that as a criticism — this is an investor group.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "mounting",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "launching"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"mounting the bid.\" The basic meaning of \"mounting\" is related to bodily actions, indicating a physical action of climbing or getting on top of something. In this context, the metaphorical meaning of \"mounting the bid\" is to initiate or launch the bid, suggesting a proactive and assertive approach.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 15,
+        "Sentence": "Labour hopes to transform the situation by increasing the number of A-levels to five for the brighter youngsters and providing grants for four-year training courses (two years in a Further Education college <b>followed</b> by two with an employer) for the rest.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "followed",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "accompanied"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The phrase \"followed by\" in the sentence is a metaphor. The basic meaning of \"followed by\" is related to bodily actions, indicating one action happening after another. In this context, it is used metaphorically to describe the sequence of two-year training courses.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 16,
+        "Sentence": "Labour hopes to transform the situation by increasing the number of A-levels to five for the brighter youngsters and providing grants for four-year training courses (two years in a Further Education college <b>followed</b> by two with an employer) for the rest.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "followed",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "accompanied"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"followed.\" The basic meaning of \"followed\" is related to bodily actions, while the contextual meaning in the sentence is about a sequence of events or actions. The difference between the basic and contextual meanings can be understood through a comparison between physical following and a sequential order of activities.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 17,
+        "Sentence": "Labour hopes to transform the situation by increasing the number of A-levels to five for the brighter youngsters and providing grants for four-year training courses (two years in a Further Education college <b>followed</b> by two with an employer) for the rest.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "followed",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "accompanied"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor identified in the sentence is \"followed\". In this context, it is used metaphorically to convey the sequential nature of the training courses, indicating that the two years in a Further Education college come before the two years with an employer.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 18,
+        "Sentence": "Second, it would ensure that workers enjoyed positive rights under law and reduce the emphasis of union <b>immunities</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "immunities",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "exemptions"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor with the word \"immunities,\" which has a more basic meaning related to legal protection from prosecution. In this context, \"immunities\" is used metaphorically to refer to reducing the emphasis on union protections or privileges.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 19,
+        "Sentence": "Labour law will always reflect the balance of <b>power</b> in society, and a fully fledged labour court system will not remove class and fundamental employer-employee differences.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "power",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "influence"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The phrase \"balance of power\" in the sentence is a metaphor, as it refers to the distribution of authority and influence in society.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 20,
+        "Sentence": "Labour law will always reflect the balance of <b>power</b> in society, and a fully fledged labour court system will not remove class and fundamental employer-employee differences.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "power",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "influence"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The sentence uses the metaphor of \"power\" to represent the dynamics of influence and control within society, particularly in the context of labor relations.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 21,
+        "Sentence": "Now, it would appear from this article, that this ideal is <b>shattered</b> and a two-tiered Europe is on the cards.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "shattered",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "destroyed"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence represents the idea that the ideal of a unified Europe has been broken or destroyed, leading to the emergence of a divided Europe with different levels or tiers of development.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 22,
+        "Sentence": "Thousands of Montenegrins, many in national costume, waited at the quayside in Bar for the Italian warship that would <b>bring</b> him home.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "bring",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "carry"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The sentence contains a metaphor, with the word \"bring\" being used metaphorically to convey the idea of the Italian warship transporting someone back to their home country.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 23,
+        "Sentence": "What was surely the last ever Montenegrin ‘royal event’ was masterminded by the republic's new Communist leadership, which has abruptly stopped describing Nicholas as a class enemy, to ride the same wave of popular patriotism and royal fervour which <b>swept</b> Serbia in the recent celebrations of the 600th anniversary of the battle of Kosovo.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "swept",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "engulfed"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"swept,\" which conveys the idea of a strong and impactful force that quickly influenced or engulfed Serbia in the recent celebrations.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 24,
+        "Sentence": "‘If I die abroad in exile, let my body rest in a temporary grave until my mortal remains be transferred to our dear homeland,’ said the Montenegrin President, Branko Kostic, reading the royal <b>will</b> and testament to the crowds in Cetinje Square, who carried flags and portraits of Nicholas and his queen, Milena.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "will",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "request"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"will\" which is typically associated with a person's testament or wishes after death. In this context, it is used metaphorically to refer to the Montenegrin President reading a royal decree.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 25,
+        "Sentence": "‘If I die abroad in exile, let my body rest in a temporary grave until my mortal remains be transferred to our dear homeland,’ said the Montenegrin President, Branko Kostic, reading the royal <b>will</b> and testament to the crowds in Cetinje Square, who carried flags and portraits of Nicholas and his queen, Milena.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "will",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "request"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"will\" in the sentence is a metaphor, as it refers to the legal document detailing the distribution of one's possessions after death, but in this context, it symbolically represents the desire and intention of the Montenegrin President to have his body returned to his homeland.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 26,
+        "Sentence": "This furthered his long-term ambition to <b>rule</b> a large ‘south Slav’ kingdom when the Ottoman Empire finally collapsed.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "rule",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "control"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"rule\" in the sentence is a metaphor, as it refers to the exercise of power and authority over a large territory, comparing it to the act of ruling as a monarch.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 27,
+        "Sentence": "He even persuaded 12 European <b>powers</b> to turn cottages into full embassies.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "powers",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "authorities"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"powers\" in this sentence is a metaphor, where the more basic meaning (related to bodily actions) of \"powers\" is being extended to refer to countries or nations with influence and authority.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 28,
+        "Sentence": "He even persuaded 12 European <b>powers</b> to turn cottages into full embassies.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "powers",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "authorities"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence is a metaphor because the word \"powers\" has a more basic meaning related to authority or control, but in this context, it is used metaphorically to refer to countries or states.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 29,
+        "Sentence": "It was a <b>fair</b> achievement in a town which an earlier observer described as ‘44 hovels’.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "fair",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "decent"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The term \"fair\" in the sentence is used metaphorically to describe the achievement, suggesting that it was reasonable or commendable considering the context of a town that was previously described as consisting of '44 hovels'.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 30,
+        "Sentence": "It was a <b>fair</b> achievement in a town which an earlier observer described as ‘44 hovels’.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "fair",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "decent"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"fair\" in the sentence is a metaphor, as it conveys the achievement being satisfactory or acceptable within the context of a town described as '44 hovels'.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 31,
+        "Sentence": "VIRGIL THOMSON was a composer and writer of originality, courage and wit formed by a unique <b>mixture</b> of American and French influences.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "mixture",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "blend"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence compares Virgil Thomson to a \"mixture\" that is formed by a unique blend of American and French influences, highlighting his originality, courage, and wit.",
+        "sentimental_label": 2
+    },
+    {
+        "ID": 32,
+        "Sentence": "His Missouri childhood gave him access to Baptist hymns and church music, but at Harvard he was <b>introduced</b> to the writings of Gertrude Stein and the music of Erik Satie.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "introduced",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "exposed"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"introduced\" in the sentence is a metaphor, as it implies the experience of being exposed to and becoming familiar with something new or different, similar to being formally presented to a person.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 33,
+        "Sentence": "These influences laid the foundations for the blend of the naive and the sophisticated which is the <b>hallmark</b> of Thomson's maturity.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "hallmark",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "trademark"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence compares the blend of the naive and the sophisticated in Thomson's maturity to a hallmark, emphasizing its significance and distinguishing characteristic.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 34,
+        "Sentence": "First came Four Saints in Three Acts, produced in 1934, and then The Mother of Us All (1947), which demonstrated a new kind of plotless opera only now <b>reaching</b> a wider currency through the stage works of Philip Glass.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "reaching",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "attaining"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is the use of \"reaching\" to describe the wider acceptance and popularity of a new kind of plotless opera introduced in The Mother of Us All (1947).",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 35,
+        "Sentence": "He said: ‘I had wondered whether a piece so drenched in Anglican chant (running from Gilbert and Sullivan to Morning Prayer and back) could <b>rise</b> and sail.’",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "rise",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "surface"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence is that the piece drenched in Anglican chant could metaphorically \"rise and sail.\"",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 36,
+        "Sentence": "But the resulting <b>mixture</b> of hymns, folksy tunes and recitatives — at times of intoxicating banality — was a sensation.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "mixture",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "combination"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The phrase \"mixture of hymns, folksy tunes and recitatives\" is a metaphor comparing a combination of different musical styles to a blend of ingredients, emphasizing the diverse and possibly conflicting elements within the music.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 37,
+        "Sentence": "The opera, like Gershwin's Porgy and Bess the following year, used an all-Black cast and the staging and choreography gave it a British <b>connection</b> since it was by Frederick Ashton.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "connection",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "association"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"connection.\" This word is used metaphorically to imply a relationship or association between the opera and Britain due to Frederick Ashton's involvement.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 38,
+        "Sentence": "Just as Thomson <b>transferred</b> Stein's literary abstraction to music, so these portraits unusually employ the painter's technique of drawing the sitter from life: an ideal combination of Thomson's habit of immediate response with an actual subject.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "transferred",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "transposed"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence compares Thomson's act of transferring Stein's literary abstraction to music to the portraits' use of the painter's technique of drawing the sitter from life.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 39,
+        "Sentence": "He always <b>felt</b> that effective musical criticism began by being well written, and he never lost his liveliness.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "felt",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "believed"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence is the use of \"felt\" to convey the idea of belief or conviction. The word \"felt\" is being used metaphorically to express the subjective experience of holding a particular opinion or viewpoint.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 40,
+        "Sentence": "He always <b>felt</b> that effective musical criticism began by being well written, and he never lost his liveliness.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "felt",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "believed"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence is that \"feeling\" effective musical criticism beginning with well-written content is compared to physically experiencing something, emphasizing the importance of well-written criticism.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 41,
+        "Sentence": "From 1940 to 1954 he wrote regularly for the New York Herald Tribune and four volumes of his <b>notices</b> have appeared in book form.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "notices",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "pieces"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The term \"notices\" in this context is a metaphor as it does not refer to literal notices or announcements, but rather to pieces of writing or reviews.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 42,
+        "Sentence": "From 1940 to 1954 he wrote regularly for the New York Herald Tribune and four volumes of his <b>notices</b> have appeared in book form.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "notices",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "pieces"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"notices\" in the sentence is a metaphor, as it is used in a more specific, contextual meaning related to publications or writings, different from its basic meaning of attention or awareness.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 43,
+        "Sentence": "From 1940 to 1954 he wrote regularly for the New York Herald Tribune and four volumes of his notices have appeared in book <b>form</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "form",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "format"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The phrase \"book form\" in the sentence is a metaphor, where the basic meaning of \"form\" referring to a physical shape or structure is utilized to convey the idea of the notices being published in the shape or structure of a book.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 44,
+        "Sentence": "From 1940 to 1954 he wrote regularly for the New York Herald Tribune and four volumes of his notices have appeared in book <b>form</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "form",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "format"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The lexical unit \"form\" is used metaphorically in the sentence, suggesting that the notices written by the author were organized and presented in a structured and coherent manner, resembling a physical book.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 45,
+        "Sentence": "From 1940 to 1954 he wrote regularly for the New York Herald Tribune and four volumes of his notices have appeared in book <b>form</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "form",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "format"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"form\" in the sentence is a metaphor, as it refers to the physical appearance of the published books, symbolizing the tangible manifestation of the writer's notices from the New York Herald Tribune.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 46,
+        "Sentence": "He made no secret of his Francophile enthusiasms, in reaction to the earlier domination of American music by Germans, and he was one of the first writers to <b>register</b> the importance of jazz.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "register",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "note"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"He was one of the first writers to register the importance of jazz\" contains a metaphor where the word \"register\" is used metaphorically to mean to recognize or acknowledge.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 47,
+        "Sentence": "He sat on the appropriate <b>boards</b> of the International Olympic Committee and was President of the General Assembly of International Sports Federations for 17 years.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "boards",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "panels"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence uses the metaphor \"boards\" to refer to the governing bodies of the International Olympic Committee and the General Assembly of International Sports Federations. The metaphor implies that the individual held authoritative positions within these organizations.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 48,
+        "Sentence": "Keller was made a Steward of Henley Royal Regatta in 1976, a time when the proliferation of new six-lane, still-water <b>courses</b> around the world, which had emerged under his guidance, seemed a threat to the regatta founded in 1829.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "courses",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "conduits"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The lexical unit \"courses\" is used metaphorically in the sentence to refer to the competition venues that had been established under Keller's guidance, posing a challenge to the traditional Henley Royal Regatta.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 49,
+        "Sentence": "The only department which explicitly <b>escapes</b> unscathed is the one which Conservatives would most like to abolish: the Department of Energy.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "escapes",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "leaves"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is that the Department of Energy \"escapes unscathed\", implying that it remains unharmed or unaffected despite challenges or criticism.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 50,
+        "Sentence": "The only department which explicitly <b>escapes</b> unscathed is the one which Conservatives would most like to abolish: the Department of Energy.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "escapes",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "leaves"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is that the Department of Energy is likened to something that manages to avoid harm or damage, despite being targeted for elimination.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 51,
+        "Sentence": "In virtually every case the aim of causing upheaval is explicitly declared, because Labour's aim would be to <b>upset</b> the bureaucratic order it inherits.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "upset",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "disrupt"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"upset\" in the sentence is a metaphor, utilizing the basic meaning of causing physical disturbance or agitation to convey the idea of disrupting the bureaucratic order in a political context.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 52,
+        "Sentence": "Labour policy has long sought to <b>challenge</b> the Treasury's dominance in government.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "challenge",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "confront"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"Labour policy has long sought to challenge the Treasury's dominance in government\" contains the metaphorical concept of \"challenge,\" which is related to the more basic meaning of physical or competitive confrontation. In this context, the metaphorical use of \"challenge\" extends this basic meaning to describe the effort to contest or oppose the Treasury's authority within the government.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 53,
+        "Sentence": "While new departments are born and others extended, one of the oldest — the Home Office — would become a <b>shadow</b> of its present self.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "shadow",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "remnant"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"shadow\" in the sentence is a metaphor, with its more basic meaning being related to darkness and lack of light. In this context, it conveys the idea that the Home Office would become much less significant or influential than its current state.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 54,
+        "Sentence": "AN IMPASSIONED appeal for Labour to back electoral reform was made by a leading Shadow Cabinet member yesterday after the national executive decided overwhelmingly to <b>oppose</b> a proportional representation motion.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "oppose",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "deny"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence uses a metaphor to describe the decision of the national executive to oppose a proportional representation motion. The word \"oppose\" is being metaphorically used to convey a strong stance against the motion, implying a sense of resistance and disagreement.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 55,
+        "Sentence": "Robin Cook, a member of the national executive and the health spokesman, said that a Labour government which sought to <b>force</b> its programme on an unwilling nation would be unsocialist.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "force",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "instill"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"a Labour government which sought to force its programme on an unwilling nation would be unsocialist\" contains a metaphor where \"force\" is used metaphorically to mean coerce or impose rather than its basic meaning of physical strength or energy.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 56,
+        "Sentence": "It would also be necessary ‘to smash the <b>decrepit</b>, effete constitution that allows a minority to capture power, and then use it ruthlessly in the interests of the privileged few’.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "decrepit",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "dilapidated"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"decrepit\" in the sentence is a metaphor that conveys the idea of the old, weak, and ineffective nature of the constitution being likened to something that is worn-out and falling apart.",
+        "sentimental_label": -2
+    },
+    {
+        "ID": 57,
+        "Sentence": "It would also be necessary ‘to smash the <b>decrepit</b>, effete constitution that allows a minority to capture power, and then use it ruthlessly in the interests of the privileged few’.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "decrepit",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "dilapidated"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is comparing the constitution to something that is old, weak, and no longer effective, suggesting that it needs to be forcefully destroyed in order to create a better system.",
+        "sentimental_label": -2
+    },
+    {
+        "ID": 58,
+        "Sentence": "It would also be necessary ‘to smash the <b>decrepit</b>, effete constitution that allows a minority to capture power, and then use it ruthlessly in the interests of the privileged few’.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "decrepit",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "dilapidated"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The term \"decrepit\" is used metaphorically to describe the old, weak, and outdated constitution that allows a minority to hold power for the benefit of the privileged few.",
+        "sentimental_label": -2
+    },
+    {
+        "ID": 59,
+        "Sentence": "Mr Cook argued that 10 years of Thatcherism had been forced on most people, who had never voted Conservative, and that many of those who opposed PR in the Labour Party wanted to use the same undemocratic <b>power</b> ‘to ram socialism down the throats of a majority who didn't vote for it’.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "power",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "force"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"power\" in the sentence is being used metaphorically to represent the ability or intention to enforce an ideology on others without their consent.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 60,
+        "Sentence": "Labour would be acquiescing in a ‘democratic outrage’ if it continued arguing that, because the Conservatives had got away with being undemocratic for so long, it was now Labour's <b>turn</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "turn",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "chance"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"Labour's turn.\" This metaphor implies a sense of fairness, justice, and the idea of a cyclical sequence, suggesting that each party should have its chance or opportunity.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 61,
+        "Sentence": "Labour would be acquiescing in a ‘democratic outrage’ if it continued arguing that, because the Conservatives had got away with being undemocratic for so long, it was now Labour's <b>turn</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "turn",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "chance"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"turn.\"",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 62,
+        "Sentence": "Labour would be acquiescing in a ‘democratic outrage’ if it continued arguing that, because the Conservatives had got away with being undemocratic for so long, it was now Labour's <b>turn</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "turn",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "chance"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The phrase \"it was now Labour's turn\" in the sentence is a metaphor, as it activates a basic schema of fairness or justice based on the concept of taking turns.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 63,
+        "Sentence": "It seemed strange to make that argument, Mr Cook said, when it was <b>clear</b> the whole policy review process was designed to placate the centre ground.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "clear",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "obvious"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains the metaphor \"it was clear,\" which implies that the information about the policy review process being designed to placate the center ground was easily understood or obvious.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 64,
+        "Sentence": "The only way to <b>remove</b> the Government was for Labour to win the next general election.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "remove",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "eliminate"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is the use of \"remove\" to imply defeating the Government in the next general election.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 65,
+        "Sentence": "The only way to <b>remove</b> the Government was for Labour to win the next general election.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "remove",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "eliminate"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "This sentence contains a metaphor where the action of \"remove\" the Government is used to describe the outcome of Labour winning the next general election.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 66,
+        "Sentence": "Party organisers want the conference to show that the party is united as never before, leaving Mr Kinnock free for the first time to sell the policy package to voters without worrying about <b>splits</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "splits",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "divisions"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The phrase \"without worrying about splits\" in the sentence is a metaphor that conveys the idea of internal divisions within the party being a hindrance to effectively promoting the policy package to voters.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 67,
+        "Sentence": "Party organisers want the conference to show that the party is united as never before, leaving Mr Kinnock free for the first time to sell the policy package to voters without worrying about <b>splits</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "splits",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "divisions"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"splits,\" which refers to divisions or disagreements within the party.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 68,
+        "Sentence": "Party organisers want the conference to show that the party is united as never before, leaving Mr Kinnock free for the first time to sell the policy package to voters without worrying about <b>splits</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "splits",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "divisions"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"splits\" in the sentence is a metaphor, as it refers to divisions or disagreements within the party, contrasting with the idea of unity.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 69,
+        "Sentence": "Party organisers want the conference to show that the party is united as never before, leaving Mr Kinnock free for the first time to sell the policy package to voters without worrying about <b>splits</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "splits",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "divisions"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"splits\" in the sentence is a metaphor, representing divisions or disagreements within the party that could hinder Mr. Kinnock's ability to promote the policy package effectively.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 70,
+        "Sentence": "The executive is <b>recommending</b> rejection of a motion calling for unilateral disarmament.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "recommending",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "suggesting"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The metaphor in the sentence is that the act of \"recommending rejection\" is being likened to a physical action, possibly involving force or resistance, in the context of a motion calling for unilateral disarmament.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 71,
+        "Sentence": "It is also urging the conference to oppose a motion, <b>supported</b> by the National Union of Mineworkers, to commit a Labour government to abolishing all nuclear power within 15 years.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "supported",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "backed"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"supported\" in the sentence is a metaphor, as its basic meaning related to physical support is being used to convey the idea of endorsement or approval in the context of the conference opposing a motion.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 72,
+        "Sentence": "It is also urging the conference to oppose a motion, <b>supported</b> by the National Union of Mineworkers, to commit a Labour government to abolishing all nuclear power within 15 years.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "supported",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "backed"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"supported\" in the sentence is a metaphor, as it carries a more basic meaning related to physical support but in this context is used to convey the idea of endorsing or backing a motion.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 73,
+        "Sentence": "GENERAL TIPS A general <b>rule</b> for pub rock patrons is that the quality of music will be in inverse proportion to the quality of the beer (except at Finsbury Park's Sir George Robey where an excellent music policy comes complete with a decent pint of Guinness).",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "rule",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "guideline"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor, where the word \"rule\" is used to convey the idea that there is a common expectation or pattern for pub rock patrons regarding the quality of music in relation to the quality of beer.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 74,
+        "Sentence": "PLAYING THIS WEEK TONIGHT Bop Brothers Blues Band The plethora of litigation surrounding Blues Brothers lookalikes almost matches that attached to the <b>release</b> of Wired, the unofficial biography of the original brother, John Belushi.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "release",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "launch"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is that the litigation surrounding Blues Brothers lookalikes is compared to the release of Wired, the unofficial biography of John Belushi.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 75,
+        "Sentence": "PLAYING THIS WEEK TONIGHT Bop Brothers Blues Band The plethora of litigation surrounding Blues Brothers lookalikes almost matches that attached to the <b>release</b> of Wired, the unofficial biography of the original brother, John Belushi.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "release",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "launch"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"release\" in the sentence is a metaphor, where the concept of releasing a book is being compared to the act of releasing a movie, creating a connection between two different contexts.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 76,
+        "Sentence": "The husband-and-wife partnership behind such classics as The Jolly Postman, Burglar Bill and The Baby's Catalogue win children over with ripping yarns and a <b>wicked</b> sense of humour.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "wicked",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "playful"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"wicked\" in the sentence is a metaphor, as it is being used to describe the sense of humor of the husband-and-wife partnership. It conveys the idea that their humor is edgy, mischievous, and perhaps a bit naughty, rather than literally evil or morally wrong.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 77,
+        "Sentence": "The husband-and-wife partnership behind such classics as The Jolly Postman, Burglar Bill and The Baby's Catalogue win children over with ripping yarns and a <b>wicked</b> sense of humour.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "wicked",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "playful"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"wicked\" in the sentence is a metaphor, representing a sense of humor that is mischievous, humorous, and perhaps slightly naughty.",
+        "sentimental_label": 2
+    },
+    {
+        "ID": 78,
+        "Sentence": "Curious subject matter for a children's picture book, you might think, and hardly guaranteed to win the approval of the gimlet-eyed children's book <b>world</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "world",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "industry"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor is comparing the world of children's books to an entity that possesses eyes capable of scrutinizing and judging.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 79,
+        "Sentence": "Curious subject matter for a children's picture book, you might think, and hardly guaranteed to win the approval of the gimlet-eyed children's book <b>world</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "world",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "industry"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The phrase \"the gimlet-eyed children's book world\" is a metaphor, comparing the critical and discerning nature of the children's book industry to an entity with sharp, piercing eyes.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 80,
+        "Sentence": "The <b>way</b> to look at Bye Bye Baby, they insist, is as a ‘light, surreal comedy’.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "way",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "manner"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"way\" in the sentence is a metaphor, as it is used to refer to a perspective or viewpoint rather than a physical path or route.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 81,
+        "Sentence": "The visual inspiration for the book was the famous advert for Start-rite shoes, <b>showing</b> a small boy and girl walking off down a tree-lined avenue — an innocent image if ever there was one.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "showing",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "depicting"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where the visual inspiration for the book is compared to the famous advert for Start-rite shoes, showing a small boy and girl walking down a tree-lined avenue. This metaphor evokes innocence and nostalgia.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 82,
+        "Sentence": "The visual inspiration for the book was the famous advert for Start-rite shoes, <b>showing</b> a small boy and girl walking off down a tree-lined avenue — an innocent image if ever there was one.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "showing",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "depicting"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where \"showing\" is used to convey the idea of the famous advert serving as a visual inspiration for the book.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 83,
+        "Sentence": "The visual inspiration for the book was the famous advert for Start-rite shoes, showing a small boy and girl walking off down a tree-lined avenue — an <b>innocent</b> image if ever there was one.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "innocent",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "pure"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence is \"an innocent image.\" The basic meaning associated with \"innocent\" is more concrete, related to bodily actions, and historically older. In this context, \"innocent\" is used metaphorically to describe the image of the small boy and girl walking down the tree-lined avenue.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 84,
+        "Sentence": "He reckons there are no shortages of possible uses — farmers can use it to do their accounts, women with child-care responsibilities can work in their own time on the word processors, publicity <b>material</b> for local craftsmen can be produced and so on.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "material",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "paraphernalia"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"material\" in the sentence is not a metaphor.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 85,
+        "Sentence": "He reckons there are no shortages of possible uses — farmers can use it to do their accounts, women with child-care responsibilities can work in their own time on the word processors, publicity <b>material</b> for local craftsmen can be produced and so on.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "material",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "paraphernalia"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"material\" in the sentence is used metaphorically to refer to content or information that can be created or produced.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 86,
+        "Sentence": "He reckons there are no shortages of possible uses — farmers can use it to do their accounts, women with child-care responsibilities can work in their own time on the word processors, publicity <b>material</b> for local craftsmen can be produced and so on.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "material",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "paraphernalia"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"material\" in this sentence is not a metaphor as it is used in its literal sense to refer to physical items or resources that can be used for various purposes.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 87,
+        "Sentence": "He reckons there are no shortages of possible uses — farmers can use it to do their accounts, women with child-care responsibilities can work in their own time on the word processors, publicity material for local craftsmen can be <b>produced</b> and so on.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "produced",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "made"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"produced\" in the sentence is not a metaphor as it is used in its literal meaning of creating publicity material.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 88,
+        "Sentence": "The <b>impact</b>, according to Henning Albrechsten, president of Telecottages International who has been involved in their development since the outset, was immediate.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "impact",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "effect"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"impact\" in the sentence is a metaphor as it is used to describe the immediate effect or influence of something, rather than its literal meaning of a physical force.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 89,
+        "Sentence": "The <b>impact</b>, according to Henning Albrechsten, president of Telecottages International who has been involved in their development since the outset, was immediate.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "impact",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "effect"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"impact\" in this sentence is a metaphor, as it conveys a sense of immediate and significant influence or effect, rather than a physical collision or force.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 90,
+        "Sentence": "The most advanced is a <b>plan</b> for five in the north of Scotland which will be funded by the Highlands and Islands Development Board and British Telecom.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "plan",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "scheme"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "This sentence does not contain a metaphor.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 91,
+        "Sentence": "Colin Pavey of British Telecom hopes that they will be running by the <b>end</b> of the year.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "end",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "conclusion"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"end\" in the sentence \"Colin Pavey of British Telecom hopes that they will be running by the end of the year\" is a metaphor.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 92,
+        "Sentence": "Colin Pavey of British Telecom hopes that they will be running by the <b>end</b> of the year.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "end",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "turn"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"Colin Pavey of British Telecom hopes that they will be running by the end of the year\" is not a metaphor according to the MIP theory.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 93,
+        "Sentence": "Colin Pavey of British Telecom hopes that they will be running by the <b>end</b> of the year.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "end",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "conclusion",
+            "turn"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The word \"end\" in the sentence is a metaphor, as it is used to refer to a specific point in time rather than a physical boundary or limit.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 94,
+        "Sentence": "Telephone cables in the region are being upgraded to ensure they are capable of <b>handling</b> faxes.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "handling",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "taking"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"Telephone cables in the region are being upgraded to ensure they are capable of handling faxes\" contains the metaphor: \"handling faxes.\" The basic meaning of \"handling\" in other contexts is related to bodily actions, specifically manipulating or dealing with something. In this context, the metaphorical meaning of \"handling faxes\" refers to the ability of the telephone cables to transmit fax messages effectively.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 95,
+        "Sentence": "But the villages are <b>dying</b>, becoming suburbs or dormitories where few people work but many sleep.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "dying",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "declining"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"But the villages are dying, becoming suburbs or dormitories where few people work but many sleep\" is a metaphor, as it uses the concept of \"dying\" to describe the decline and transformation of villages into suburbs or dormitories.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 96,
+        "Sentence": "But the villages are <b>dying</b>, becoming suburbs or dormitories where few people work but many sleep.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "dying",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "declining"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence \"But the villages are dying\" involves the concept of villages losing vitality and becoming less active or vibrant, akin to the decline and eventual extinction of living beings.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 97,
+        "Sentence": "But the villages are <b>dying</b>, becoming suburbs or dormitories where few people work but many sleep.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "dying",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "declining"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The metaphor in the sentence \"But the villages are dying, becoming suburbs or dormitories where few people work but many sleep\" employs the concept of death to describe the decline and transformation of villages into places where vitality is diminished, and productivity is low.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 98,
+        "Sentence": "But the villages are <b>dying</b>, becoming suburbs or dormitories where few people work but many sleep.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "dying",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "declining"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The lexical unit \"dying\" in the sentence is a metaphor. The more basic meaning of \"dying\" relates to the literal concept of biological death, while in this context, it is used metaphorically to describe the decline or disappearance of villages.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 99,
+        "Sentence": "Britain, with its growing traffic problems, seems an ideal place for the onset of this <b>revolution</b>.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "revolution",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "rebellion"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The term \"revolution\" in the sentence is a metaphor that refers to a significant and rapid change or transformation, likening the solution to Britain's traffic problems to a revolutionary event.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 100,
+        "Sentence": "Rugby Union: Welsh <b>horizon</b> all turns black",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "horizon",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "landscape"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence uses the metaphor \"horizon\" to symbolize a point in the future or a goal. The term \"black\" is used metaphorically to represent a negative or grim outcome.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 101,
+        "Sentence": "‘In all honesty we should have won by at least 15 points,’ Brian Nicholas, the Bridgend <b>coach</b>, said.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "coach",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "mentor"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The lexical unit \"coach\" in the sentence \"Brian Nicholas, the Bridgend coach\" is a metaphor, as it refers to a person who trains or directs a sports team but is used here to indicate his role within the organization or group.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 102,
+        "Sentence": "At Bridgend he looked in despair, and he almost <b>admitted</b> as much: ‘I hope we can pull it together but sometimes I have my doubts.’",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "admitted",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "confessed"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where the act of \"admitting\" is used to convey the speaker's feelings of despair and doubt at Bridgend.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 103,
+        "Sentence": "The <b>backs</b> were mainly pedestrian but the fundamental problem lay elsewhere.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "backs",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "rears"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence is using the metaphor \"the backs were mainly pedestrian\" to convey that the backs (presumably of a sports team) were average or unexceptional.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 104,
+        "Sentence": "He was scragged by Mike Budd, Jeremy Cooper came away with the ball, Owain Williams acted as the link, and Kevin Ellis <b>scored</b>: three back-row forwards and their scrum-half in perfect harmony.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "scored",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "succeeded"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence is not a metaphor, as the word \"scored\" is used in its literal sense of gaining points in a game, without a deeper symbolic meaning.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 105,
+        "Sentence": "Why, though, could these supposed championship contenders not have tried to emulate the fine passing that had sprinkled the previous weekend's Merseyside <b>joust</b>?",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "joust",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "contest"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The term \"joust\" in the sentence is a metaphor, as it refers to a previous weekend's match as a medieval combat between knights on horseback, highlighting the intense and competitive nature of the game.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 106,
+        "Sentence": "They ought to have pocketed three <b>points</b> in the first half-hour but Tony Adams, a more threatening centre-forward on his forays than the current Alan Smith, missed the target with two headers and David Rocastle let Dave Beasant save a penalty, much as the stretch-version keeper had done for Wimbledon in the 1988 FA Cup final.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "points",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "goals"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where \"points\" is used figuratively to refer to goals in a football match, highlighting missed scoring opportunities.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 107,
+        "Sentence": "They ought to have pocketed three points in the first half-hour but Tony Adams, a more threatening centre-forward on his forays than the current Alan Smith, missed the target with two headers and David Rocastle let Dave Beasant <b>save</b> a penalty, much as the stretch-version keeper had done for Wimbledon in the 1988 FA Cup final.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "save",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "block"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where the action of Dave Beasant saving a penalty is likened to a previous similar action he performed in the 1988 FA Cup final.",
+        "sentimental_label": -1
+    },
+    {
+        "ID": 108,
+        "Sentence": "It should <b>suit</b> Tony Dorigo, the unblooded England left-back, though oddly his rival, Nigel Winterburn, did more rampaging on Saturday; neither, in truth, made the heart pound.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "suit",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "befit"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence contains a metaphor where the word \"suit\" is used to describe how well something fits a person.",
+        "sentimental_label": 0
+    },
+    {
+        "ID": 109,
+        "Sentence": "There was, however, one <b>aspect</b> that deserves commendation.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "aspect",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "facet"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "The sentence \"There was, however, one aspect that deserves commendation\" contains a metaphor. The word \"aspect\" is used metaphorically to refer to a particular feature or characteristic of a subject that is praiseworthy.",
+        "sentimental_label": 1
+    },
+    {
+        "ID": 110,
+        "Sentence": "There was, however, one <b>aspect</b> that deserves commendation.",
+        "Metaphor": 1,
+        "Metaphor_word_number": 1,
+        "Metaphor_word": "aspect",
+        "Source_domain": null,
+        "Target_domain": null,
+        "Metaphor_span_types": null,
+        "Metaphor_interpretation_order": null,
+        "Alternative_words": [
+            "facet"
+        ],
+        "interpretation": null,
+        "Language": "English",
+        "Metaphor_novelty_rating": null,
+        "Metaphor_why": "Conclusion: The word \"aspect\" in the sentence is a metaphor, where the basic meaning of physical orientation or view is used to describe a particular quality or feature of something.",
+        "sentimental_label": 1
+    }
+]
