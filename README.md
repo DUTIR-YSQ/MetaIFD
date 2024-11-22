@@ -80,8 +80,10 @@ The dataset was used to develop and evaluate two novel fine-tuning methods for L
 Each dataset entry includes:
 - **Sentence:** Full sentence text.
 - **Metaphor Indicator:** Whether the sentence contains a metaphor (1 for metaphor, 0 for literal).
+- **Metaphor Word(s) number:** The number of metaphorical words included., if applicable.
 - **Metaphor Word(s):** The metaphorical word(s) in the sentence, if applicable.
-- **Source and Target Domains:** Conceptual mapping details.
+- **Source  Domains:** Conceptual mapping details.
+- - **Target Domains:** Conceptual mapping details.
 - **Interpretations_order:** Metaphor explanations with ratings.
 - **Interpretations:** Explain the meaning of metaphor.
 - **Novelty Rating:** A score indicating the creativity of the metaphor.
