@@ -10,8 +10,8 @@ Each dataset folder is named after the dataset and contains the following subfol
 - **Full Dataset**: The complete dataset without any splits.
 
 ## Instruction Set Description
- The folder contains the instruction sets for each individual task, organized accordingly. Each task was created using its specific instruction template.
----
+  -The folder contains the instruction sets for each individual task, organized accordingly. Each task was created using its specific instruction template.
+
 
 ## Dataset Overview
 
@@ -21,7 +21,7 @@ Each dataset folder is named after the dataset and contains the following subfol
   - Metaphorical sentences: 79,695
   - Literal sentences: 33,689
 - **Genres:** News, fiction, academic texts, dialogues, religious websites, and more.
-- **Languages:** English only (future expansion for multilingual data possible).
+- **Languages:** English.
 
 ---
 
@@ -36,40 +36,30 @@ The MetaIFD dataset supports **8 distinct tasks**, with annotations tailored for
 2. **Single Metaphorical Word Identification**
    - Identify a single metaphorical word in a given sentence.
    - Dataset size: 5,673 entries.
+
    
-3. **Multiple Metaphorical Words Identification**
-   - Detect multiple metaphorical words in a sentence.
-   
-4. **Metaphor Explanation Rating**
+3. **Metaphor Explanation Rating**
    - Evaluate the quality of metaphor explanations.
    - Dataset size: 785 entries.
    
-5. **Metaphorical Word Replacement**
-   - Replace metaphorical words with literal counterparts while preserving the sentence’s meaning.
    
-6. **Paraphrase Generation**
+4. **Paraphrase Generation**
    - Generate paraphrases or explanations for metaphorical expressions.
    - Dataset size: 8,934 entries.
    
-7. **Metaphor Novelty Scoring**
+5. **Metaphor Novelty Scoring**
    - Score the creativity and originality of metaphorical words.
    - Dataset size: 4,070 entries.
    
-8. **Sentiment Analysis**
+6. **Sentiment Analysis**
    - Determine the sentiment polarity of sentences, categorized into five levels (very positive, positive, neutral, negative, very negative).
    - Full dataset: 113,384 entries.
 
 ---
 
-## Features
-
-- **Annotations:**
+## Annotations:
   - Sentiment labels.
-  - Metaphorical word identification.
-  - Metaphor explanations and novelty ratings.
-- **Fine-Tuning Compatibility:**
-  - Supports instruction fine-tuning across multiple tasks.
-  - Includes emotional prompts for improved performance.
+  - Metaphor  MIP.
 
 ---
 
@@ -106,13 +96,7 @@ Researchers and developers can use MetaIFD to:
 - Benchmark metaphor understanding, explanation, and sentiment analysis capabilities.
 - Explore novel training methods for complex language tasks.
 
----
 
-## Download
-
-The dataset and instructions are publicly available at: [MetaIFD Dataset Repository](https://anonymous.4open.science/r/MetaIFD-4100/README.md)
-
----
 
 ## Acknowledgments
 
