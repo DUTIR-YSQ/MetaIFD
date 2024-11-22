@@ -83,7 +83,7 @@ Each dataset entry includes:
 - **Metaphor Word(s) number:** The number of metaphorical words included., if applicable.
 - **Metaphor Word(s):** The metaphorical word(s) in the sentence, if applicable.
 - **Source  Domains:** Conceptual mapping details.
-- - **Target Domains:** Conceptual mapping details.
+- **Target Domains:** Conceptual mapping details.
 - **Interpretations_order:** Metaphor explanations with ratings.
 - **Interpretations:** Explain the meaning of metaphor.
 - **Novelty Rating:** A score indicating the creativity of the metaphor.
