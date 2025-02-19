@@ -25,6 +25,20 @@ Each dataset folder is named after the dataset and contains the following subfol
 
 ---
 
+## Example
+
+| **Label**                   | **Value**                                                                                                            |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Sentence**                | The faculty meeting was a real war.                                                                                  |
+| **Metaphorical or literal** | Metaphorical                                                                                                         |
+| **Metaphor word**           | war                                                                                                                 |
+| **Interpretation order**    | 1. The faculty meeting was a peaceful gathering. <br> 2. At the faculty meeting, we talked about real war. <br> 3. The faculty meeting was ridiculous. <br> 4. The faculty meeting was highly aggressive. |
+| **Interpretation**          | Using the characteristics of "war" to describe the intensity of the meeting and the challenging nature of the situation. |
+| **Metaphor novelty rating** | 0.23                                                                                                                |
+| **Metaphor_MIP**            | According to MIP theory, "The faculty meeting was a real war" is a metaphor because the literal meaning of "war" (actual combat) differs from its contextual meaning (an intense and confrontational meeting). |
+| **Sentiment**               | -1                                                                                                                  |
+
+
 ## Tasks Supported
 | **Task**                    | **Dataset**                                                                 | **Total** |
 |-----------------------------|-----------------------------------------------------------------------------|-----------|
