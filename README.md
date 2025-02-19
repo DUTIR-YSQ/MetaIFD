@@ -26,6 +26,15 @@ Each dataset folder is named after the dataset and contains the following subfol
 ---
 
 ## Tasks Supported
+| **Task**                    | **Dataset**                                                                 | **Total** |
+|-----------------------------|-----------------------------------------------------------------------------|-----------|
+| Metaphor Identification      | TroFi, VUA, TSV, MOH, Bizzoni, LCCen, figqa, Katz, GAN-kevin, Reimann      | 113,384   |
+| Identify Metaphorical Words  | MOH, MUHCH                                                                  | 5,673     |
+| Metaphor Explanation Rating  | Bizzoni, Katz                                                               | 785       |
+| Paraphrase Generation        | MUHCH, figqa, Katz                                                          | 8,934     |
+| Metaphor Novelty Scoring     | MUNCH                                                                       | 4,070     |
+| Sentiment Analysis           | TroFi, VUA, TSV, MOH, Bizzoni, LCCen, figqa, Katz, GAN-kevin, Reimann      | 113,384   |
+| **Total**                    |                                                                             | **246,230** |
 
 The MetaIFD dataset supports **6 distinct tasks**, with annotations tailored for metaphor comprehension and explanation:
 
