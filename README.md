@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/c259670f-260c-448d-8fa9-9636bf0064ea)# MetaIFD: Metaphor Understanding and Generation Instruction Fine-tuning Dataset
-##Cite
-Lu X, Liu Y, Zhang D, Wu Z, Ren J, Xia F.EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors [C] // Proceedings of the ACM Web Conference 2025.
+# MetaIFD: Metaphor Understanding and Generation Instruction Fine-tuning Dataset
+## Cite
+**Lu X, Liu Y, Zhang D, Wu Z, Ren J, Xia F.EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors [C] // Proceedings of the ACM Web Conference 2025.**
 
 
 MetaIFD is a comprehensive dataset designed for the fine-tuning of large language models (LLMs) to enhance their metaphor comprehension and explanation capabilities. It includes high-quality annotations, task diversity, and novel fine-tuning strategies, making it a versatile resource for advancing metaphor-related research and applications.
